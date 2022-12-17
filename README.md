@@ -187,5 +187,5 @@ module.exports = MyModel;
   </body>
 </html>
   ```
-Features are be added in the future.
+Features are to be added in the future.
   
