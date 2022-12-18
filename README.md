@@ -5,8 +5,8 @@ A small MVC framework by Aco. Built with
 [![Express.js](https://img.shields.io/badge/Express.js-informational?style=flat&logo=express&logoColor=white&color=34342E)](https://github.com/expressjs/express)
 
 ## Table of contents
-- [Folder structure](#folder-structure)
 - [Table of contents](#table-of-contents)
+- [Folder structure](#folder-structure)
 - [Installation](#installation)
 - [Usage](#basic-usage)  
   - [Connecting to database](#connecting-to-your-database)  
