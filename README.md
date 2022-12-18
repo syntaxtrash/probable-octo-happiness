@@ -1,5 +1,5 @@
 # probable-octo-happiness
-A small MVC framework by Aco. Built with 
+A small MVC framework built with 
 [![Javascript](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=F1EB2B&color=34342E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Node.js](https://img.shields.io/badge/Node.js-informational?style=flat&logo=node.js&logoColor=68a063&color=34342E)](https://github.com/nodejs/node)
 [![Express.js](https://img.shields.io/badge/Express.js-informational?style=flat&logo=express&logoColor=white&color=34342E)](https://github.com/expressjs/express)
